@@ -2,6 +2,7 @@
 layout: post
 author: samip5
 title: Welcome to the world
+tags:
 ---
 
 Hello everyone, this is my first post on this platform.
