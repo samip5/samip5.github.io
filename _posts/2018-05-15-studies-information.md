@@ -2,7 +2,7 @@
 layout: post
 author: samip5
 title: Information about my current studies and future plans
-tags: studies, collage, future
+tags: studies collage future
 ---
 
 Some people might already know that I'm a last year student at Spesia Vocational Collage and I'll be graduating this summer from Business and Information technology.
