@@ -7,6 +7,7 @@ google_analytics: UA-44228883-4
 show_downloads: false
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 footer-links:
   facebook: smantysaari
   github: samip5
