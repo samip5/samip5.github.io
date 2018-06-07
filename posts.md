@@ -3,4 +3,4 @@ layout: posts_list
 author: samip5
 ---
 
-# List of blog posts
+# List of the blog posts

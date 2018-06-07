@@ -9,5 +9,3 @@ On this website there will be showcases of the projects I currently have hosted 
 
 ## Projects I have contributed to
 - Tautulli, Python based monitoring and tracking tool for Plex Media Server. (Link: [The Repo](https://github.com/Tautulli/Tautulli) & List of my commits: [Link](https://github.com/Tautulli/Tautulli/commits?author=samip5)) 
-
-## Blog posts
