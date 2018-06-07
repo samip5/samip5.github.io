@@ -8,6 +8,6 @@ On this website there will be showcases of the projects I currently have hosted 
 - Discord Bots, written in Python: This is work in ri, but it can be found at [https://github.com/samip5/Discord-Bots](https://github.com/samip5/Discord-Bots)
 
 ## Projects I have contributed to
-- Tautulli, Python based monitoring and tracking tool for Plex Media Server. (Link: [The Repo](https://github.com/Tautulli/Tautulli) | List of my commits: [Link](https://github.com/Tautulli/Tautulli/commits?author=samip5)) 
+- Tautulli, Python based monitoring and tracking tool for Plex Media Server. (Link: [The Repo](https://github.com/Tautulli/Tautulli) & List of my commits: [Link](https://github.com/Tautulli/Tautulli/commits?author=samip5)) 
 
 ## Blog posts
