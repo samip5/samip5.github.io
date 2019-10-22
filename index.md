@@ -6,7 +6,7 @@ On this website there will be showcases of the projects I currently have hosted 
 
 - Minecraft Mod based on Java: I created a Minecraft mod with a friend from the programming class as a thesis. (link: [https://github.com/samip5/samipfoods](https://github.com/samip5/samipfoods))
 - Discord Bots, written in Python: This is work in progress, but it can be found at [https://github.com/samip5/Discord-Bots](https://github.com/samip5/Discord-Bots) & [https://0xacab.org/samip537/discord-bots-private](https://0xacab.org/samip537/discord-bots-private)
-- Mess.is Rest API, written in Python: It was never completed, but some of the source is available here: https://github.com/samip5/REST-API
+- Mess.is Rest API, written in Python: It was never completed, but some of the source is available here: [Repo](https://github.com/samip5/REST-API)
 
 ## My active development projects
 - Aava Discord server website, work in progress and using Django. [Repo](https://github.com/samip5/aava-website-django) 
